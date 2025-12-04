@@ -17,7 +17,6 @@ Instead of re-architecting, the existing stack was replicated in AWS, showing ho
 - **Security & Management:** IAM, Security Groups, ACM for SSL/TLS  
 
 
-
 ### **Architecture Overview**
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/56f35f84-684b-4dd7-9f67-0ff77da1955d" />
@@ -31,14 +30,6 @@ Running the full **Profile** stack on AWS costs approximately **$47.68/month**, 
 3. Backend services (**MySQL, RabbitMQ, Memcache**) run on private EC2 instances managed with **Route 53 private DNS**.  
 4. Application artifacts are deployed from **Amazon S3** onto Tomcat servers.  
 5. Each layer (frontend, app, backend) is isolated using **dedicated Security Groups**.
-
-
-### **Why Lift & Shift**
-
-Most enterprises still run legacy workloads in data centers, leading to:
-- Slow and manual scaling  
-- High infrastructure costs  
-- Complex maintenance  
 
 By **lifting and shifting** the iProfile stack to AWS, I demonstrated how to achieve:
 - **Elastic scaling**  
