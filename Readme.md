@@ -68,7 +68,8 @@ Confirmed MySQL connections and validated cross-service communication between ap
 
 ### **Project Highlights**
 
-⚡ Demonstrates my ability to:
+  Demonstrates my ability to:
+  
 - Migrate real-world workloads to AWS  
 - Design scalable, secure cloud architectures  
 - Automate provisioning and deployment pipelines  
