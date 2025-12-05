@@ -3,7 +3,7 @@
 This project demonstrates how I migrated the **Profile multi-tier application** from an on-premises/VM-based setup to the **AWS cloud** using a **Lift and Shift strategy**.  
 Instead of re-architecting, the existing stack was replicated in AWS, showing how businesses can move workloads quickly while still gaining **scalability**, **flexibility**, and **cost efficiency**.
 
-- **AWS Lift & Shift Project** → [`lift & shift`](https://anasiezeikenna.notion.site/Lift-Shift-Application-Workload-on-AWS-Cloud-26105c74585e804c9eece9459b8f214d)
+- **AWS Lift & Shift Full Project** → [`lift & shift`](https://anasiezeikenna.notion.site/Lift-Shift-Application-Workload-on-AWS-Cloud-26105c74585e804c9eece9459b8f214d)
 
 
 ### **Overview**
