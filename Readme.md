@@ -21,6 +21,7 @@ Instead of re-architecting, the existing stack was replicated in AWS, showing ho
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/56f35f84-684b-4dd7-9f67-0ff77da1955d" />
 
+
 Running the full **Profile** stack on AWS costs approximately **$47.68/month**, proving how cloud migration enables **reliability and elasticity** at a fraction of traditional on-premise costs.
 
 ### **Workflow**
